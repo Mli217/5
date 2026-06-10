@@ -1,6 +1,6 @@
 streamlit
 folium
-streamlit-folium
+streamlit-folium==0.18.0
 pandas
 matplotlib
 streamlit-autorefresh
